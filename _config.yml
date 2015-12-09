@@ -1,7 +1,7 @@
 name: MyFirstSteps
 favicon: null
-layout_spectrum: 0.726611124817282
-typography_spectrum: 0.45836930396035314
+layout_spectrum: 0.43402
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#F4F482'
   brandStrength: 0.7923088723327965
   lightness: 0.7775195941794664
-  saturation: 0.6903193818870932
-  rhythmicContrast: 0.20788290933705866
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
