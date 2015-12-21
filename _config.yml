@@ -1,6 +1,6 @@
 name: MyFirstSteps
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.44575
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#716c68'
+    - '#83a3c9'
+    - '#030303'
+    - '#d7d5c8'
+    - '#434345'
   brandStrength: 0.5
   lightness: 0.4375
   saturation: 0.25
