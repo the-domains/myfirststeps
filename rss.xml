@@ -2,14 +2,33 @@
     <channel>
         <title><![CDATA[MyFirstSteps]]></title>
         <description><![CDATA[MyFirstSteps]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/myfirststeps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 14:05:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 15:01:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/myfirststeps/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Austin Healey was extensively raced by the Donald Healey Motor Company in Europe at Le Mans and in Sebring in the U.S., in classic rallies by the BMC competitions department, and was recognized from the very beginning by the Sports Car Club of America (SCCA). Healey models raced in club racing in D, E, and F production classes, winning National Championships in both D and E Production. The last Big Healey to win an SCCA National Championship was the class E Production Austin-Healey 100-6 driven by Alan Barker at the Daytona ARRC in 1965. In 1953, a special streamlined Austin-Healey set several land speed records at the Bonneville Salt Flats in Utah, USA.
+
+
+The name Austin is now owned by Nanjing, which bought the assets of MG Rover Group (British Leyland's successor company) out of bankruptcy in 2005. After Donald Healey sold his original business, Donald Healey Motor Company, the Healey brand was registered to a new firm, Healey Automobile Consultants, which the Healey family sold to HFI Automotive in 2005.[citation needed] In June 2007, Nanjing and Healey Automobile Consultants / HFI Automotive signed a collaborative agreement that aims to recreate the Austin Healey and Healey marquees alongside NAC's MG. No timeline has been given as to when the Healey and Austin-Healey brands will return, although MG will be back on the market in China and the UK by the year's end.
+
+</p>]]></description>
+            <link>https://thegrid.ai/myfirststeps/fa78323a-ee66-4f71-a3f2-62ee1d778184/index.html</link>
+            <guid isPermaLink="false">fa78323a-ee66-4f71-a3f2-62ee1d778184</guid>
+            <pubDate>Mon, 04 Jan 2016 15:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65276a6e-34f8-413a-abab-3e88fb9abc5e.jpg">]]></description>
+            <link>https://thegrid.ai/myfirststeps/806cfb63-ca45-42e7-b55e-7e1b06a7826f/index.html</link>
+            <guid isPermaLink="false">806cfb63-ca45-42e7-b55e-7e1b06a7826f</guid>
+            <pubDate>Mon, 04 Jan 2016 14:47:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfd7f8b1-e722-41b2-a692-5e5e486ed6c7.jpg">]]></description>
-            <link>undefined94e5c454-f363-4e71-a892-66a90737f1ca/index.html</link>
+            <link>https://thegrid.ai/myfirststeps/94e5c454-f363-4e71-a892-66a90737f1ca/index.html</link>
             <guid isPermaLink="false">94e5c454-f363-4e71-a892-66a90737f1ca</guid>
             <pubDate>Mon, 04 Jan 2016 14:05:21 GMT</pubDate>
         </item>
